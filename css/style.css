@@ -1,0 +1,125 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+h1{
+    font-size:50px;
+    
+}
+
+header{
+    width:100%
+}
+
+.navbar{
+    background-color :#e3e3e3;
+    
+}
+
+.img-fluid2{
+    
+    
+    width:50%;
+    height:auto;
+}
+
+.vitrine h2{
+    
+    font-size:30px
+}
+
+
+
+p{
+    font-family : 'Roboto';
+    color: #454545
+}
+
+h3{
+    margin-bottom: 5%;
+}
+
+
+
+h1, h2, h3, h4, h5, a{
+    font-family: 'Lobster', cursive;
+    color: #57718A !important
+}
+
+section:not(.not-after):after{
+    content: "";
+    display: block;
+    background-color: #CBC0A7;
+    height: 1px;
+    margin: 100px auto;
+    width: 50%
+}
+
+.vitrine{
+    text-align: center;
+    padding-top:17%;
+    padding-bottom:17%;
+    background-image: url(../images/fond-titre.jpg);
+    background-size: cover;
+    background-position-y: bottom;
+    
+    
+}
+
+.consultation{
+    background-color: #FFFFFF;
+}
+
+
+
+.service{
+    background-color:  #ffffff;
+    
+}
+
+
+
+
+
+.abonnements, .card-header{
+    background-color:#c0bfd2;
+}
+
+.service{
+    
+    padding-top:8%;
+    
+    
+}
+
+.border-cours{
+    border: solid #c0bfd2 1px
+}
+
+
+footer{
+    background-color: #e3e3e3;
+    padding: 4% 0
+  
+    
+}
+
+.contact p{
+    font-size: 10px
+}
+
+.contact{
+    padding-bottom: 100px;
+}
+
+
+.navbar img{
+    height:100px
+}
+
+
+.map{
+    padding-right :  0;
+}
